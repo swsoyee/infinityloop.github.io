@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Infinity Loop</title>
+    <link>https://infinityloop.github.io/post/</link>
+    <description>Recent content in Posts on Infinity Loop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 20 Dec 2018 10:18:05 +0900</lastBuildDate>
+    
+	<atom:link href="https://infinityloop.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://infinityloop.github.io/post/test/</link>
+      <pubDate>Thu, 20 Dec 2018 10:18:05 +0900</pubDate>
+      
+      <guid>https://infinityloop.github.io/post/test/</guid>
+      <description>Another test Hey!
+测试以下</description>
+    </item>
+    
+  </channel>
+</rss>
