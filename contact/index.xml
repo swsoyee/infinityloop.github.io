@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact on Infinity Loop</title>
+    <title>Contacts on Infinity Loop</title>
     <link>https://swsoyee.github.io/contact/</link>
-    <description>Recent content in Contact on Infinity Loop</description>
+    <description>Recent content in Contacts on Infinity Loop</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
+    <language>zh-CN</language>
     <lastBuildDate>Thu, 20 Dec 2018 10:32:09 +0900</lastBuildDate>
     
 	<atom:link href="https://swsoyee.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
