@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swsoyee.github.io/post/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</loc>
+    <loc>https://swsoyee.github.io/2018/12/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</loc>
     <lastmod>2018-12-20T11:02:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swsoyee.github.io/post/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://swsoyee.github.io/2018/12/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2018-12-20T10:51:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swsoyee.github.io/post/test/</loc>
+    <loc>https://swsoyee.github.io/contact/about/</loc>
+    <lastmod>2018-12-20T10:32:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swsoyee.github.io/about/</loc>
+    <lastmod>2018-12-20T10:32:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swsoyee.github.io/2018/12/test/</loc>
     <lastmod>2018-12-20T10:18:05+09:00</lastmod>
   </url>
   
@@ -23,8 +33,20 @@
   </url>
   
   <url>
+    <loc>https://swsoyee.github.io/contact/</loc>
+    <lastmod>2018-12-20T10:32:09+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://swsoyee.github.io/</loc>
     <lastmod>2018-12-20T11:02:10+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://swsoyee.github.io/page/</loc>
+    <lastmod>2018-12-20T10:32:09+09:00</lastmod>
     <priority>0</priority>
   </url>
   
