@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infinity Loop</title>
-    <link>https://swsoyee.github.io/</link>
+    <link>http://swsoyee.github.io/</link>
     <description>Recent content on Infinity Loop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 20 Dec 2018 10:32:09 +0900</lastBuildDate>
     
-	<atom:link href="https://swsoyee.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://swsoyee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://swsoyee.github.io/contact/about/</link>
+      <link>http://swsoyee.github.io/contact/about/</link>
       <pubDate>Thu, 20 Dec 2018 10:32:09 +0900</pubDate>
       
-      <guid>https://swsoyee.github.io/contact/about/</guid>
+      <guid>http://swsoyee.github.io/contact/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello, world!</title>
-      <link>https://swsoyee.github.io/blog/test/</link>
+      <link>http://swsoyee.github.io/blog/test/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://swsoyee.github.io/blog/test/</guid>
+      <guid>http://swsoyee.github.io/blog/test/</guid>
       <description>English Hello, world!
 中文 你好，世界！
 日本語 こんにちは、世界！</description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>PlayStation Portable Theme Project</title>
-      <link>https://swsoyee.github.io/itemized/item1/</link>
+      <link>http://swsoyee.github.io/itemized/item1/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://swsoyee.github.io/itemized/item1/</guid>
+      <guid>http://swsoyee.github.io/itemized/item1/</guid>
       <description>汇总了本人在2009年~2011年间自制发布于TGBUS的53款PSP静态主题（PTF）。由于TGBUS的论坛猥皮大本营已经GG，源文件和下载情况都无法统计得知了。只是大概记得每个帖子的回复量都不少的，大概2016还是2017年看的时候全部加起来下载数目也有个数十上百万的样子。
 千辛万苦终于想起当年有在百度空间传过所有作品的截图，也算不幸中的万幸了。由于大多数作品的具体时间已经不记得了，只能将其分为下述类别进行大致介绍。
  动漫类（17款） 同人类（12款） 游戏类（6款） 创意类（8款） 其他类（10款）  作品列表 1. 动漫类（17款） 依稀记得这是大概2009年自己刚学会使用PhotoshopCS2所制作的第一款主题。那个时候还不会抠图，于是图标全是靠截图的，只有正方形。
