@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://infinityloop.github.io/post/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2018-12-20T10:51:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://infinityloop.github.io/post/test/</loc>
     <lastmod>2018-12-20T10:18:05+09:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://infinityloop.github.io/</loc>
-    <lastmod>2018-12-20T10:18:05+09:00</lastmod>
+    <lastmod>2018-12-20T10:51:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://infinityloop.github.io/post/</loc>
-    <lastmod>2018-12-20T10:18:05+09:00</lastmod>
+    <lastmod>2018-12-20T10:51:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
