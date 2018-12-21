@@ -347,7 +347,51 @@ if (!doNotTrack) {
   <p>如果对于R不熟悉的用户的话可以直接复制下述代码到<code>txt</code>文档中然后修改后缀名为<code>R</code>即可。</p>
 </div>
 
-<script src="https://gist.github.com/swsoyee/10cc4510586c1ac234e6412f3f04c32e.js"></script>
+<pre><code class="language-R">#### sticker_download.R ####
+
+# Install and load package
+if( !is.element(&quot;stringr&quot;, .packages(all.available = TRUE)) ) {
+    install.packages(&quot;stringr&quot;)
+}
+library(stringr)
+
+# Read ID and convert it to URL from txt file.
+sticker_id &lt;- readLines(&quot;sticker_id.txt&quot;, encoding = &quot;UTF-8&quot;)
+sticker_url &lt;- paste0(&quot;https://store.line.me/stickershop/product/&quot;, sticker_id, &quot;/ja&quot;)
+
+for (x in 1:length(sticker_url)) {
+  # Change the sticker url
+  url &lt;- sticker_url[x]
+  # Fetch webpage source code
+  page &lt;- readLines(url, encoding = &quot;UTF-8&quot;)
+  
+  # Extract sticker url
+  prefix &lt;-
+    &quot;https://stickershop.line-scdn.net/stickershop/v1/sticker/&quot;
+  suffix &lt;- &quot;/ANDROID/sticker.png&quot;
+  sticker &lt;-
+    str_extract_all(
+      string = page,
+      pattern = paste0(prefix, &quot;\\d+&quot;, suffix),
+      simplify = TRUE
+    )
+  sticker &lt;- c(sticker[sticker[, 1] != &quot;&quot;,])
+  
+  # Create directory
+  dirName &lt;- paste0(&quot;line_sticker_&quot;, sticker_id[x])
+  dir.create(dirName)
+  # Download all sticker into directory
+  num &lt;- 1
+  for (i in sticker) {
+    download.file(
+      url = i,
+      destfile = paste0(dirName, &quot;//&quot;, num, &quot;.gif&quot;),
+      mode = 'wb'
+    )
+    num &lt;- num + 1
+  }
+}
+</code></pre>
 
 <h2 id="3-2-可执行文件bat部分">3.2 可执行文件bat部分</h2>
 
@@ -740,6 +784,32 @@ if (!doNotTrack) {
             <hr>
           </div>
         
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://swsoyee.github.io/1/01/about-infinity-loop/">
+                <h3 class="media-heading">👨‍💻About Infinity Loop</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 0001
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">🎓Education ⭐M.S. in Bioinformatics
+Apr. 2017 - Mar. 2019 (expected)
+The University of Tokyo (UTokyo), Tokyo, Japan
+⭐B.S. in Bioinformatics
+Sep. 2012 - Jul. 2016
+Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China
+📥Project TCC-GUI: Graphic User Interface for TCC Package
+Apr. 2018 - Now
+ Screen shot of Exploratory Analysis in TCC-GUI   🎮Game PlayStation Network (HK)
+Steam (CN)</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
       </div>
     </div>
     <div class="modal-footer">
@@ -747,7 +817,7 @@ if (!doNotTrack) {
          data-message-zero=""
          data-message-one=""
          data-message-other="">
-         5 posts found
+         6 posts found
       </p>
     </div>
   </div>
@@ -769,6 +839,10 @@ if (!doNotTrack) {
 
 <script src="https://swsoyee.github.io/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
 
+
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/languages/r.min.js"></script>
+  
 
 <script lang="javascript">
 window.onload = updateMinWidth;
