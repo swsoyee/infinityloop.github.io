@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Infinity Loop Blog</title>
+    <title>Tags on Infinity Loop</title>
     <link>https://swsoyee.github.io/tags/</link>
-    <description>Recent content in Tags on Infinity Loop Blog</description>
+    <description>Recent content in Tags on Infinity Loop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
@@ -16,6 +16,15 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://swsoyee.github.io/tags/%E4%B8%BB%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>圣地巡礼</title>
+      <link>https://swsoyee.github.io/tags/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://swsoyee.github.io/tags/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC/</guid>
       <description></description>
     </item>
     
