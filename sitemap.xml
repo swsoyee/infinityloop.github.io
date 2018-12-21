@@ -44,6 +44,11 @@
   </url>
   
   <url>
+    <loc>https://swsoyee.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://swsoyee.github.io/post/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -95,6 +100,10 @@
     <loc>https://swsoyee.github.io/tags/%E5%9C%A3%E5%9C%B0%E5%B7%A1%E7%A4%BC/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://swsoyee.github.io/page/about-chinese/</loc>
   </url>
   
 </urlset>
