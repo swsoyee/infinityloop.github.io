@@ -6,10 +6,19 @@
     <description>Recent content in 中文 on Infinity Loop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://swsoyee.github.io/categories/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R &#43; bat一键批量下载LINE贴图的方法</title>
+      <link>https://swsoyee.github.io/2018/12/line-sticker/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://swsoyee.github.io/2018/12/line-sticker/</guid>
+      <description>&lt;p&gt;出于练习用R对于网页素材的解析，并且写一些有意思并且实用的脚本，就尝试着结合Windows下的bat可执行文件捣鼓了这么一个东西。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>PSP个人制作主题汇总</title>
