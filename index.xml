@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infinity Loop</title>
+    <title>Infinity Loop | Record everything that matters to me</title>
     <link>https://swsoyee.github.io/</link>
-    <description>Recent content on Infinity Loop</description>
+    <description>Recent content on Infinity Loop | Record everything that matters to me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://swsoyee.github.io/2018/12/psp-theme/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://s1.ax1x.com/2018/12/20/Fr3YPe.png&#34; alt=&#34;Fr3YPe.png&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://s1.ax1x.com/2018/12/22/FyZSw4.png&#34; alt=&#34;PSP Theme Preview&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;汇总了本人在2009年~2011年间自制发布于TGBUS的53款PSP静态主题（PTF）。由于TGBUS的论坛猥皮大本营已经GG，源文件和下载情况都无法统计得知了。只是大概记得每个帖子的回复量都不少的，大概2016还是2017年看的时候全部加起来下载数目也有个数十上百万的样子。&lt;/p&gt;</description>
     </item>
@@ -72,7 +72,8 @@ Sep. 2012 - Jul. 2016
 Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China
   📥PROJECTS  TCC-GUI: Graphic User Interface for TCC Package
 Apr. 2018 - Now
- Screen shot of Exploratory Analysis in TCC-GUI     🔬PUBLICATIONS  Zinc finger and interferon-stimulated genes play a vital role in TB-IRIS following HAART in AIDS</description>
+ Screen shot of Exploratory Analysis in TCC-GUI     Under development&amp;hellip;
+ 🔬PUBLICATIONS  Zinc finger and interferon-stimulated genes play a vital role in TB-IRIS following HAART in AIDS</description>
     </item>
     
   </channel>
